@@ -26,10 +26,12 @@ public class Formatter {
      * <code> separator </code> character in groups of size equal to 
      * <code> groupedDigits </code>.
      * Examples:
+     * <table summary="">
      * <tr><th>separator</th><th>number of digits grouped</th><th>original number</th><th>formatted number</th></tr>
-     * <tr><td>'&nbsp' (space)</td><td>3</td><td>1000000</td><td>1 000 000</td></tr>
+     * <tr><td>' ' (space)</td><td>3</td><td>1000000</td><td>1 000 000</td></tr>
      * <tr><td>'.'</td><td>3</td><td>1000000</td><td>1.000.000</td></tr>
-     * <tr><td>'&nbsp' (space)</td><td>4</td><td>987654321</td><td>9 8765 4321</td></tr>
+     * <tr><td>' ' (space)</td><td>4</td><td>987654321</td><td>9 8765 4321</td></tr>
+     * </table>
      * 
      * @param number the number to be separated
      * @param base the base to which the given number belongs.

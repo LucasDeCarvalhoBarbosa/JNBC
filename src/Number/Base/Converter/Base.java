@@ -72,7 +72,7 @@ public class Base {
     /**
      * Returns the corresponding value of this symbol in base 10.<br>
      * <b>Warning:</b> if this symbol is not recognized it will throw a 
-     * <code>SymbolNotFoundException<code>.
+     * <code>SymbolNotFoundException</code>.
      * 
      * @param symbol The symbol to get the value
      * @return the corresponding value of this symbol in base 10
