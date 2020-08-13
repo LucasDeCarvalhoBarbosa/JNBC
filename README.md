@@ -19,7 +19,7 @@ To download, go to [releases](https://github.com/LucasDeCarvalhoBarbosa/JNBC/rel
 You will need java 8 or later.  
 To understand how __JNBC__ works, take a look at the [examples](https://github.com/LucasDeCarvalhoBarbosa/JNBC/tree/master/src/Number/Base/Converter/Examples).
 
-#Documentation
+# Documentation
 The documentation is at [/doc folder](https://github.com/LucasDeCarvalhoBarbosa/JNBC/tree/master/docs), or at: <https://lucasdecarvalhobarbosa.github.io/JNBC/>  
 
 # Would like to help?
