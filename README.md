@@ -20,4 +20,4 @@ You will need java 8 or later.
 To understand how __JNBC__ works, take a look at the [examples](https://github.com/LucasDeCarvalhoBarbosa/JNBC/tree/master/src/Number/Base/Converter/Examples).
 
 # Would like to help?
-I believe your help is very welcome, if you want to help, take a look at the file [CONTRIBUTING.md](https://github.com/LucasDeCarvalhoBarbosa/JNBC/blob/master/CONTRIBUTING.md
+I believe your help is very welcome, if you want to help, take a look at the file [CONTRIBUTING.md](https://github.com/LucasDeCarvalhoBarbosa/JNBC/blob/master/CONTRIBUTING.md)
