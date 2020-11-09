@@ -91,7 +91,7 @@ public class Converter {
      * @param targetBase the base conversion target
      * @return the number already converted to the decimal base
      */
-    public static String ConvertToCustomBase(String number, Base sourceBase, Base targetBase){
+    public static String convertToCustomBase(String number, Base sourceBase, Base targetBase){
         return convertToCustomBase(convertToDecimal(number, sourceBase), targetBase);
     }
     
