@@ -71,8 +71,8 @@ public class Base {
     
     /**
      * Returns the corresponding value of this symbol in base 10.<br>
-     * <b>Warning:</b> if this symbol is not recognized it will throw a 
-     * <code>SymbolNotFoundException</code>.
+     * <b>Warning: if this symbol is not recognized it will throw a 
+     * <code>SymbolNotFoundException</code></b>.
      * 
      * @param symbol The symbol to get the value
      * @return the corresponding value of this symbol in base 10
@@ -88,9 +88,9 @@ public class Base {
     }
     
     /**
-     * Returns the value corresponding to this base symbol.
-     * <b>Warning:</b> if the value is less than zero, or greater than the base,
-     *  it will throw a <code>DigitOutOfBaseException</code>.
+     * Returns the value corresponding to this base symbol.<br>
+     * <b>Warning:if the value is less than zero, or greater than the base,
+     *  it will throw a <code>DigitOutOfBaseException</code></b>.
      * 
      * @param digit The digit to get the value
      * @return the corresponding value of this digit in this base

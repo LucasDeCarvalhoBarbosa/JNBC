@@ -15,8 +15,8 @@ public class CustomBaseToCustomBaseConversion {
         Base sourcebase = new Base(new char[]{'a', 'b', 'c', 'd', 'e', 'f'});
         Base targetBase = new Base(new char[]{'f', 'e', 'd', 'c', 'b', 'a'});
         
-        System.out.println("a == "+Converter.ConvertToCustomBase("a", sourcebase, targetBase));//the value must be f
-        System.out.println("ba == "+Converter.ConvertToCustomBase("ba", sourcebase, targetBase));//the value must be ef
+        System.out.println("a == "+Converter.convertToCustomBase("a", sourcebase, targetBase));//the value must be f
+        System.out.println("ba == "+Converter.convertToCustomBase("ba", sourcebase, targetBase));//the value must be ef
     }
     
 }
