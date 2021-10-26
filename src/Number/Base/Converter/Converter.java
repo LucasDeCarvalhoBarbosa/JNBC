@@ -8,7 +8,7 @@ import java.util.List;
  *
  * @author Lucas Barbosa
  */
-public class Converter {
+public abstract class Converter {
     
     /**
      * Converts the given number, to the decimal base.<br>
